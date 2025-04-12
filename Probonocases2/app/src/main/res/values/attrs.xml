@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom attributes for data binding -->
+    <declare-styleable name="BindingAdapters">
+        <attr name="statusColor" format="string" />
+        <attr name="statusBackgroundTint" format="string" />
+    </declare-styleable>
+</resources>
